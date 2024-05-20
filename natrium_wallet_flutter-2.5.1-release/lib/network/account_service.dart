@@ -37,7 +37,7 @@ import 'package:natrium_wallet_flutter/network/model/response/subscribe_response
 import 'package:natrium_wallet_flutter/network/model/response/price_response.dart';
 import 'package:natrium_wallet_flutter/network/model/response/pending_response.dart';
 import 'package:natrium_wallet_flutter/network/model/response/process_response.dart';
-import 'package:natrium_wallet_flutter/bus/events.dart';
+import 'package:natrium_wallet_flutter/Controllers/bus/events.dart';
 
 // Server Connection String
 const String _SERVER_ADDRESS = "wss://app.natrium.io";
